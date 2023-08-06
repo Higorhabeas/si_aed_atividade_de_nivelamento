@@ -1,0 +1,15 @@
+C:\Cursos\Sistema de inforção\Disciplinas\AED\Atividade_de_Nivelamento\bin\Debug\net7.0\Atividade_de_Nivelamento.exe
+C:\Cursos\Sistema de inforção\Disciplinas\AED\Atividade_de_Nivelamento\bin\Debug\net7.0\Atividade_de_Nivelamento.deps.json
+C:\Cursos\Sistema de inforção\Disciplinas\AED\Atividade_de_Nivelamento\bin\Debug\net7.0\Atividade_de_Nivelamento.runtimeconfig.json
+C:\Cursos\Sistema de inforção\Disciplinas\AED\Atividade_de_Nivelamento\bin\Debug\net7.0\Atividade_de_Nivelamento.dll
+C:\Cursos\Sistema de inforção\Disciplinas\AED\Atividade_de_Nivelamento\bin\Debug\net7.0\Atividade_de_Nivelamento.pdb
+C:\Cursos\Sistema de inforção\Disciplinas\AED\Atividade_de_Nivelamento\obj\Debug\net7.0\Atividade_de_Nivelamento.csproj.AssemblyReference.cache
+C:\Cursos\Sistema de inforção\Disciplinas\AED\Atividade_de_Nivelamento\obj\Debug\net7.0\Atividade_de_Nivelamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Sistema de inforção\Disciplinas\AED\Atividade_de_Nivelamento\obj\Debug\net7.0\Atividade_de_Nivelamento.AssemblyInfoInputs.cache
+C:\Cursos\Sistema de inforção\Disciplinas\AED\Atividade_de_Nivelamento\obj\Debug\net7.0\Atividade_de_Nivelamento.AssemblyInfo.cs
+C:\Cursos\Sistema de inforção\Disciplinas\AED\Atividade_de_Nivelamento\obj\Debug\net7.0\Atividade_de_Nivelamento.csproj.CoreCompileInputs.cache
+C:\Cursos\Sistema de inforção\Disciplinas\AED\Atividade_de_Nivelamento\obj\Debug\net7.0\Atividade_de_Nivelamento.dll
+C:\Cursos\Sistema de inforção\Disciplinas\AED\Atividade_de_Nivelamento\obj\Debug\net7.0\refint\Atividade_de_Nivelamento.dll
+C:\Cursos\Sistema de inforção\Disciplinas\AED\Atividade_de_Nivelamento\obj\Debug\net7.0\Atividade_de_Nivelamento.pdb
+C:\Cursos\Sistema de inforção\Disciplinas\AED\Atividade_de_Nivelamento\obj\Debug\net7.0\Atividade_de_Nivelamento.genruntimeconfig.cache
+C:\Cursos\Sistema de inforção\Disciplinas\AED\Atividade_de_Nivelamento\obj\Debug\net7.0\ref\Atividade_de_Nivelamento.dll

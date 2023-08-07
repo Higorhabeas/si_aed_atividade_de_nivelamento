@@ -6,7 +6,7 @@ namespace MeuProjeto
     {
         static void Main(string[] args)
         {          
-            Exercicio_1();
+            //Exercicio_1();
             //Exercicio_2();
             //Exercicio_3();
             //Exercicio_4();
@@ -16,6 +16,14 @@ namespace MeuProjeto
             //Exercicio_8();
             //Exercicio_9();
             //Exercicio_10();
+            /*int n = 9;
+            int retorno=Fibonacci(n);
+            Console.WriteLine("Posição  " + n +" de Fibonacci = " + retorno);*/
+            int f = 3;
+            int fatorial = Fatorial(f);
+            Console.WriteLine("Fatorial de  " + f +" é: " + fatorial);
+
+
         
         }
 
@@ -24,7 +32,7 @@ namespace MeuProjeto
             double soma = 0;
             double media;
             for (int i = 1; i <=5; i++){
-                Console.Write("\nDigite idade do aluno: ");
+                Console.Write("\nDigite idade do aluno " + i + " : ");
                 double idade = double.Parse(Console.ReadLine());
                 soma += idade;
                 
@@ -290,5 +298,26 @@ namespace MeuProjeto
                 Console.WriteLine($"Erro ao ler o arquivo :{ex.Message}");
             }
         }
+
+        public static int Fibonacci(int n){
+            if (n == 0){
+                return 0;
+            }
+            if (n == 1){
+                return 1;
+            }
+
+            return Fibonacci(n-1) + Fibonacci(n-2);
+        }
+
+        public static int Fatorial(int n){
+            if (n == 1){
+                return n;
+            }else{
+                int f = n * Fatorial(n-1);
+                return f;
+            }
+        }
     }
+
 }

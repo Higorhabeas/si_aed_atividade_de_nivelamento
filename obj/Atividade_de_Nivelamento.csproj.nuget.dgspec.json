@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\Atividade_de_Nivelamento\\Atividade_de_Nivelamento.csproj": {}
+    "c:\\Pessoal\\Sistemas_De_Informacao\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento\\Atividade_de_Nivelamento.csproj": {}
   },
   "projects": {
-    "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\Atividade_de_Nivelamento\\Atividade_de_Nivelamento.csproj": {
+    "c:\\Pessoal\\Sistemas_De_Informacao\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento\\Atividade_de_Nivelamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\Atividade_de_Nivelamento\\Atividade_de_Nivelamento.csproj",
+        "projectUniqueName": "c:\\Pessoal\\Sistemas_De_Informacao\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento\\Atividade_de_Nivelamento.csproj",
         "projectName": "Atividade_de_Nivelamento",
-        "projectPath": "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\Atividade_de_Nivelamento\\Atividade_de_Nivelamento.csproj",
-        "packagesPath": "C:\\Users\\higor_kwmzknu\\.nuget\\packages\\",
-        "outputPath": "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\Atividade_de_Nivelamento\\obj\\",
+        "projectPath": "c:\\Pessoal\\Sistemas_De_Informacao\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento\\Atividade_de_Nivelamento.csproj",
+        "packagesPath": "C:\\Users\\Higor\\.nuget\\packages\\",
+        "outputPath": "c:\\Pessoal\\Sistemas_De_Informacao\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\higor_kwmzknu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Higor\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
